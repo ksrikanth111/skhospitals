@@ -25,7 +25,6 @@ class _LoginState extends State<Login> {
           width: width*0.95,
           child: ListView(
             children: [
-              
                  Text('Sk Hospitals',textAlign: TextAlign.center,),
                  SizedBox(height: 20,),
                  Container(
